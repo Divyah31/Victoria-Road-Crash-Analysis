@@ -1,0 +1,12 @@
+name: ExploringVicAccident
+title: ExploringVicAccident
+username: dshetty
+account: dshetty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14590991
+bundleId: 10164147
+url: https://dshetty.shinyapps.io/ExploringVicAccident/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
